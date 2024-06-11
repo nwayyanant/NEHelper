@@ -1,0 +1,27 @@
+{
+	"markers": {
+		"page": "#",
+		"pali": "*",
+		"translation": "^",
+		"footnote": "@",
+		"remark": "!",
+		"paragraph": "။ ။"
+	},
+	"html_body": {
+		"startLine": "26",
+		"endLine": "28"
+	},
+	"nefile_header": {
+		"Version": "2.0",
+		"DocNo": "MN-001",
+		"Title": "မူလပရိယာယသုတ္တ"
+	},
+	"enclosed_chars": {
+		"pali_start": "",
+		"pali_end": "",
+		"translation_start": "{",
+		"translation_end": "}",
+		"footnote_start": "[",
+		"footnote_end": "]",
+	}
+}

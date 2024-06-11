@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <title>%TITLE%</title>
+    <link rel="stylesheet" href="../../css/Tipitaka.css" type="text/css" />
+</head>
+<script>
+    function OnFrameLoad(frm) {
+        var p = frm.contentWindow.document.getElementById('article_title');
+        p.innerText = '#INDEX% #TITLE#';
+        frm.style.height = frm.contentWindow.document.documentElement.scrollHeight + 'px';
+    }
+    //
+</script>
+
+<body>
+    <iframe id="ArticleHeaderFrame" src="../Tipitaka_ArticleHeader.html" onload="OnFrameLoad(this)" width=100%>
+</iframe>
+    <a href="../index.html" style="position: absolute; left: 1%;">Menu</a>
+    <p class="ack_myan">
+
+    </p>
+    <!-- <hr> -->
+    <p class="myan_indent">
+        <span class="pali">%PALI%</span><span class="trans">%TRANS%</span><span class="myan_footnote">%FOOTNOTE%</span>
+    </p>
+    <p class="myan_center">သာဓု၊ သာဓု၊ သာဓု
+    </p>
+    <hr>
+    <p class="myan_footnote">
+        လုပ်အားအလှူရှင် - %NAMES%
+        <br/></p>
+</body>
+
+</html>

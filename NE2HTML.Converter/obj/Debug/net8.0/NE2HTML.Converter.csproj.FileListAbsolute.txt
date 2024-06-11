@@ -1,0 +1,17 @@
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\bin\Debug\net8.0\NE2HTML.Converter.exe
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\bin\Debug\net8.0\NE2HTML.Converter.deps.json
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\bin\Debug\net8.0\NE2HTML.Converter.runtimeconfig.json
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\bin\Debug\net8.0\NE2HTML.Converter.dll
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\bin\Debug\net8.0\NE2HTML.Converter.pdb
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.csproj.AssemblyReference.cache
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.AssemblyInfoInputs.cache
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.AssemblyInfo.cs
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.csproj.CoreCompileInputs.cache
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.csproj.CopyComplete
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.dll
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\refint\NE2HTML.Converter.dll
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.pdb
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\NE2HTML.Converter.genruntimeconfig.cache
+D:\SOURCE TREE\NE2HTML.Converter\NE2HTML.Converter\obj\Debug\net8.0\ref\NE2HTML.Converter.dll
